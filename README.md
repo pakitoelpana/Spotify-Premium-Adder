@@ -4,8 +4,6 @@ Simple code in Selenium that allows accounts without Premium to get it only thro
 - Easy to setup
 - 1x acc every 10-15sec
 - Only adds premium
-# 🎬 Preview
-
 # ✔️ Setup
 1. Put your accounts without premium in credentials.txt
 2. Open the main.py and put mail,pass and secret of your paypal (line 26-28)

@@ -5,7 +5,7 @@ Simple code in Selenium that allows accounts without Premium to get it only thro
 - 1x acc every 10-15sec
 - Only adds premium
 # 🎬 Preview
-https://cdn.discordapp.com/attachments/1267620918348222605/1273273088662044805/Video_senza_titolo_-_Realizzato_con_Clipchamp_2.mp4?ex=66be0378&is=66bcb1f8&hm=91dc81a6ee968cebe341ca2e44726e4c6dace0ee5337ee0725586563da339784&
+file:///C:/Users/turan/Downloads/Preview-Spotify-Adder.mp4
 # ✔️ Setup
 1. Put your accounts without premium in credentials.txt
 2. Open the main.py and put mail,pass and secret of your paypal (line 26-28)

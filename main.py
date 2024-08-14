@@ -23,9 +23,6 @@ PASSWORD_CONSTANT = ''
 SECRET = ''
          
 
-config = json.load(open("config.json", encoding="utf-8"))
-
-
 def cls(): 
     os.system('cls' if os.name =='nt' else 'clear')
 

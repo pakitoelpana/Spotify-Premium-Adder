@@ -1,5 +1,17 @@
 # Spotify-Premium-Adder
-- 🎀 Simple code in Selenium that allows accounts without Premium to get it only through a PayPal account and a connected VCC, then it will do everything automatically
-- 🐍 Made in python
-- 🚫 DO NOT RESELL THE TOOL
-- 🌐 For any issue/question contact me on discord: bna104
+🎀 Simple code in Selenium that allows accounts without Premium to get it only through a PayPal account and a connected VCC, then it will do everything automatically
+# 🌍 Features
+- Easy to setup
+- 1x acc every 10-15sec
+- Only adds premium
+# ✔️ Setup
+1. Put your accounts without premium in credentials.txt
+2. Open yje main.py and put mail,pass and secret of your paypal (line 26-28)
+3. If you're not italian put a vpn in italy
+4. Open main.py and run it
+5. After any sessione leave always empty the paypal_status.txt file
+# ❗ DISCLAIMER
+this repository is FOR EDUCATIONAL PURPOSES ONLY, if this tool is used in for non-legal purposes I do not take responsibility for it.
+# 💭 Issue/Question
+- if you have any question just join this discord: https://discord.gg/netflixmarket
+- if you have any issue report it and i'll fix it!

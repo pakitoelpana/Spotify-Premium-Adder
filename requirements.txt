@@ -1,0 +1,5 @@
+selenium
+colorama
+pystyle
+webdriver-manager
+pyotp

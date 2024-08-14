@@ -8,8 +8,8 @@
 1. Put your accounts without premium in credentials.txt
 2. Open the main.py and put mail,pass and secret of your paypal (line 26-28)
 3. If you're not italian put a vpn in italy
-4. Open main.py and run it
-5. After any sessione leave always empty the paypal_status.txt file
+5. Open main.py and install requirements.txt and then run it
+6. After any sessione leave always empty the paypal_status.txt file
 # ❗ DISCLAIMER
 this repository is FOR EDUCATIONAL PURPOSES ONLY, if this tool is used in for non-legal purposes I do not take responsibility for it.
 # 💭 Issue/Question
